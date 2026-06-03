@@ -9,3 +9,7 @@
 
 
 # Declare uma variável do tipo booleano
+nome = 'Caio'
+idade = '26'
+altura = '1.88'
+possui_instagram = 'True'
